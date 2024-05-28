@@ -8,7 +8,9 @@
 </p>
 
 ## About Laravel Multilanguage with spatie
-
+<ul>
+    <li>dadsd</li>
+</ul>
 => This project is based on the Laravel Multilingual System with <u>spatie translate package</u>
 
 
