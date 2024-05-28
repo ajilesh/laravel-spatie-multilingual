@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel Multilanguage with spatie
+## Laravel Multilanguage with spatie
 <ul>
     <li>This project is based on the Laravel Multilingual System with spatie translate package</li>
         <li>User can easy to understand and maintain this code for applications</li>
