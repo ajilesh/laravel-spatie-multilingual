@@ -9,7 +9,7 @@
 
 ## About Laravel Multilanguage with spatie
 <ul>
-    <li style="color:red">This project is based on the Laravel Multilingual System with <span style="color:red">spatie translate package</u></li>
+    <li>This project is based on the Laravel Multilingual System with <span style="color:red">spatie translate package</u></li>
 </ul>
 
 
