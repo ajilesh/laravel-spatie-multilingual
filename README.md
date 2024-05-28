@@ -9,8 +9,8 @@
 
 ## About Laravel Multilanguage with spatie
 <ul>
-    <li>dadsd</li>
+    <li>This project is based on the Laravel Multilingual System with <span style="color:red">spatie translate package</u></li>
 </ul>
-=> This project is based on the Laravel Multilingual System with <u>spatie translate package</u>
+
 
 
